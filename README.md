@@ -7,7 +7,7 @@ The site is a static website with English and Simplified Chinese pages under `en
 To preview it locally:
 
 ```bash
-python3 -m http.server 8000
+npx http-server .
 ```
 
 Then open <http://localhost:8000/>.
